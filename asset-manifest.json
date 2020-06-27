@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/poolcarapp/static/css/main.15f2c2a3.chunk.css",
+    "main.js": "/poolcarapp/static/js/main.6ceb5995.chunk.js",
+    "main.js.map": "/poolcarapp/static/js/main.6ceb5995.chunk.js.map",
+    "runtime-main.js": "/poolcarapp/static/js/runtime-main.13ca8d5a.js",
+    "runtime-main.js.map": "/poolcarapp/static/js/runtime-main.13ca8d5a.js.map",
+    "static/css/2.de424728.chunk.css": "/poolcarapp/static/css/2.de424728.chunk.css",
+    "static/js/2.afc6997c.chunk.js": "/poolcarapp/static/js/2.afc6997c.chunk.js",
+    "static/js/2.afc6997c.chunk.js.map": "/poolcarapp/static/js/2.afc6997c.chunk.js.map",
+    "index.html": "/poolcarapp/index.html",
+    "precache-manifest.eb87766f8632e1544e99de6c76ab40b8.js": "/poolcarapp/precache-manifest.eb87766f8632e1544e99de6c76ab40b8.js",
+    "service-worker.js": "/poolcarapp/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/poolcarapp/static/css/2.de424728.chunk.css.map",
+    "static/css/main.15f2c2a3.chunk.css.map": "/poolcarapp/static/css/main.15f2c2a3.chunk.css.map",
+    "static/js/2.afc6997c.chunk.js.LICENSE.txt": "/poolcarapp/static/js/2.afc6997c.chunk.js.LICENSE.txt",
+    "static/media/showride.module.css": "/poolcarapp/static/media/image.624e8774.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13ca8d5a.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.afc6997c.chunk.js",
+    "static/css/main.15f2c2a3.chunk.css",
+    "static/js/main.6ceb5995.chunk.js"
+  ]
+}
